@@ -28,8 +28,8 @@ get-property-listのフォルダーをドラック＆ドロップするとcd [�
 Python3 ./get-property-abst.py --url "https://suumo.jp//jj/bukken/ichiran/JJ012FC002/?ar=030&bs=011&cn=9999999&cnb=0&ekTjCd=&ekTjNm=&kb=1&kt=9999999&mb=0&mt=9999999&sc=13113&ta=13&tj=0&bknlistmodeflg=2&pc=30&pn=1" --max_pages 2
 
 ### 実行時の注意点
-上記のコマンドには、２つのユーザー指定の値を設定する必要がある。
-１つは--url の後ろについているurl。これは物件一覧のページリンクをコピペする。
+上記のコマンドには、２つのユーザー指定の値を設定する必要がある。<br>
+１つは--url の後ろについているurl。これは物件一覧のページリンクをコピペする。<br>
 ※""の中にコピペすることを忘れずに！
 
 ２つは--max_pages についている数字。何ページ分の物件一覧を取得するかを設定する。
