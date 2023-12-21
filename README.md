@@ -2,4 +2,4 @@
 
 ## ライブラリのインストール
 
-pandas, openpyxl, requests, beautifulsoup4
+pandas, openpyxl, requests, beautifulsoup4, argparse
