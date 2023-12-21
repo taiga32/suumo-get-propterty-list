@@ -24,7 +24,7 @@ get-property-listのフォルダーをドラック＆ドロップするとcd [�
 <img width="408" alt="image" src="https://github.com/taiga32/suumo-get-propterty-list/assets/69178111/413068b9-8f78-4d1d-b7a1-2e379ed6964e"><br>
 
 ## ファイル直上のフォルダーに現在地が変わったら
-以下のコマンドをEnterして、ファイルを実行する
+以下のコマンドをEnterして、ファイルを実行する<br>
 Python3 ./get-property-abst.py --url "https://suumo.jp//jj/bukken/ichiran/JJ012FC002/?ar=030&bs=011&cn=9999999&cnb=0&ekTjCd=&ekTjNm=&kb=1&kt=9999999&mb=0&mt=9999999&sc=13113&ta=13&tj=0&bknlistmodeflg=2&pc=30&pn=1" --max_pages 2
 
 ### 実行時の注意点
